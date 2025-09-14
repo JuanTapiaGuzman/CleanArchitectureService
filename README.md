@@ -160,5 +160,5 @@ DELETE /api/users/{id}
 
 ## Pruebas de Funcionamiento
 
-![Prueba 1](src/main/resources/images/Screenshot%202025-09-14%20at%208.42.32%20AM.png)
-![Prueba 2](src/main/resources/images/Screenshot%202025-09-14%20at%208.43.35%20AM.png)
+![Prueba 1](./src/main/resources/images/prueba1.png)
+![Prueba 2](./src/main/resources/images/prueba2.png)
